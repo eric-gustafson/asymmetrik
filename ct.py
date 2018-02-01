@@ -100,7 +100,7 @@ def textToRecords(lst):
     return recs
 
 def getPhoneNumber(lines):
-    '''Part of the intrface specification. Retrieve the phone number for the record'''
+    '''Part of the interface specification. Retrieve the phone number for the record'''
     return phoneExtract(getFirstPhone(lines))
 
 def getsortkey (arr):

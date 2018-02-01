@@ -7,7 +7,7 @@
 
 * Basic algorithm
   Extract the name from the email address and use that in the
-  computation against the the other lines from the business cards to
+  computation against the other lines from the business cards to
   find the name of the person, rather than say the company name.
 
 * Usage
