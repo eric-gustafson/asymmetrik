@@ -1,8 +1,8 @@
 * Description
   There are two implementations, a common lisp and an python
   implementation.  The python implementation 'should' be easy to use
-  ;).  I didn't use any external package, and relied on an
-  implementation of levenshtein algorithm from wikipedia, rather than
+  ;).  I didn't use any external packages, and relied on an
+  implementation of levenshtein algorithm from Wikipedia, rather than
   deal with packages for this exercise.
 
 * Basic algorithm
