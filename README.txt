@@ -18,3 +18,7 @@
    ct.lisp   Lisp implementation of the exercise
    data      Copy and pasted the data from website
 
+* Output
+  ['msmith@asymmetrik.com\n', '4105551234', 'Mike Smith\n']
+  ['lisa.haung@foobartech.com\n', '4105551234', 'Lisa Haung\n']
+  ['awilson@abctech.com\n', '17035551259', 'Arthur Wilson\n']
